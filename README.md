@@ -31,7 +31,7 @@ Run: composer install
    - AssignAVariableValueToAnotherVariable
    - CastStringIntToBoolean
 
-   - ###Do the same defining return types
+   - ###Do the same, defining return types
 
 -----
 
